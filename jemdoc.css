@@ -8,7 +8,8 @@ table#tlayout {
 
 body {
 	background: white;
-	font-family: Georgia, serif;
+	font-family: monospace, monospace;
+	font-size: 14px;
 	padding-bottom: 8px;
 	margin: 0;
 }
@@ -367,5 +368,5 @@ table.imgtable, table.imgtable td {
 }
 
 .ptitle {
-	font-size: 108%;
+	font-weight: bold;
 }
